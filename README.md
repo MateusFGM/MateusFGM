@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MateusFGM
-- 👀 I’m interested in development front-end
-- 🌱 I’m currently learning Javascript, NodeJS, React e Vue
+- 👋 Hi, I’m Mateus F. Gaspar Miranda
+- 👀 I’m interested in development front-end and Back-end
+- 🌱 I’m currently learning Bootstrap, Sass, Javascript and MySQL
 - 🚩 São Paulo - SP
 
 <!---
