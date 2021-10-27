@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Mateus F. Gaspar Miranda
 - 👀 I’m interested in development front-end and Back-end
 - 🌱 I’m currently learning Bootstrap, Sass, Javascript and MySQL
+- 📚 I'm want to learn C#, Python, Node and MongoDB
 - 👨‍🎓 Fatec Osasco - software development
 - 🚩 São Paulo - SP
 
