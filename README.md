@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Mateus F. Gaspar Miranda
-- 👀 I’m interested in development front-end and Back-end
-- 🌱 I’m currently learning Bootstrap, Sass, Javascript and MySQL
-- 📚 I'm want to learn C#, Python, Node and MongoDB
+- 👋 Hi, I’m Mateus F. Gaspar.<br>
+- 👀 I'm interested in front-end, back-end development.
+- 🔎 I'm curious and I like the design area, more specifically Ux design.
+- 🌱 I'm currently learning Bootstrap, Sass, Javascript and MySQL for the Front-end and also Ux design concepts.
+- 📚 In the future I want to learn Python, NodeJs and MongoDB.<br>
 - 👨‍🎓 Fatec Osasco - software development
-- 🚩 São Paulo - SP
+- 🚩 Living in São Paulo - SP
 
 <!---
 MateusFGM/MateusFGM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
