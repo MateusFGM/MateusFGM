@@ -1,6 +1,6 @@
 👋 Hi!<br><br>
-👀 I'm interested in web development and product design | UX | UI.<br>
-🌱 I'm currently learning Bootstrap, Sass, Javascript and MySQL for the Front-end and also Product design concepts.<br>
+👀 I'm interested in web development and Ux | Ui - Design.<br>
+🌱 I'm currently learning Bootstrap, Sass, Angular and MySQL for the Front-end and also Product design concepts.<br>
 👨‍🎓 FIAP - Sistemas para Internet.<br>
 🚩 Living in São Paulo - SP<br>
 
